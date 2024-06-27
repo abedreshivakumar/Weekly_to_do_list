@@ -1,5 +1,6 @@
 # Weekly_to_do_list
-In this I have created the weekly to do list where I can add tasks edit and it update it progress for the entire week
+In this I have created the weekly to do list where I can add tasks edit and it update it progress for the entire week.
+
 from flask import Flask, render_template, request, redirect, url_for
 import json
 import os
